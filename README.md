@@ -52,12 +52,7 @@ Our app is a good start for now, however there are few Cons that we can be impro
 
 My recommadations beside what mentioned above are :
 
-1- Inserting a date selection box :
-
-<p style = "aling :center" >
-<img width="250" height="150" src ="https://user-images.githubusercontent.com/98676400/163420757-b9a867be-e99a-474e-877c-c14ceec35328.png"  >
-</p>
-
+1- Inserting a date selection box would help user to filter dates faster.
 2- Our app responds as soon as a change is made in any field. Rather than that inserting a "Search" button will make it more user friendly.
 3- UFO Sightings button is too far from the filter field, we can insert it in the same area wilth filter field. 
 
