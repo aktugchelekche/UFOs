@@ -44,17 +44,22 @@ As we know, there are a lot of data regarding UFOs in our databases and people w
 <img width="1269" alt="Screen Shot 2022-04-14 at 10 02 56 AM" src="https://user-images.githubusercontent.com/98676400/163418439-45b668eb-48b2-40d5-8699-f5c30338c44f.png">
 
 ## Summary 
-
+### Drawbacks
 Our app is a good start for now, however there are few Cons that we can be improved with few lines of code such as follwing :
 
 1. Entire data is being displaed everytime the app is run or refresh, that makes the app slower and longer to load up. 
 2. Case sensivitiy is a major problem because if a user use upper case charatesr then our filter wont respond to this request and return to a blank table. 
 
-My recommadations beside what mentioned above are :
+### Recommadations for imprving the App:
 
 1- Inserting a date selection box would help user to filter dates faster.
 2- Our app responds as soon as a change is made in any field. Rather than that inserting a "Search" button will make it more user friendly.
 3- UFO Sightings button is too far from the filter field, we can insert it in the same area wilth filter field. 
 
+## Resources :
+
+* Data :JavaScript Data <a href = "https://github.com/aktugchelekche/UFOs/tree/main/static/js" > data.js </a>
+* Languages: JavaScript, HTML, CSS and Bootstrap 3
+* Dependencies: D3
 
 Aktug Cilekci . 
