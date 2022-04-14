@@ -4,11 +4,11 @@
 
 In this project, I will utilize JavaScript, HTML ,D3 and CSS to create an interactive and responsive website/app with BootStrap for anyone who likes to find out more about UFOs. 
 
-### Purpose 
+## Purpose 
 
 As we know, there are a lot of data regarding UFOs in our databases and people who likes to know more about them. By using this app, they will be able to filter the data by Date, City, State, Shape as well as Year of appearance and retrieve desired information quickly.  
 
-### Results 
+## Results 
 
 #### The following is a simple user guide for our users :
 
@@ -43,5 +43,23 @@ As we know, there are a lot of data regarding UFOs in our databases and people w
 #### So far we have seen how each filter operate independently. Below shows that our filter can oparate with all fields being filled by user. 
 <img width="1269" alt="Screen Shot 2022-04-14 at 10 02 56 AM" src="https://user-images.githubusercontent.com/98676400/163418439-45b668eb-48b2-40d5-8699-f5c30338c44f.png">
 
+## Summary 
+
+Our app is a good start for now, however there are few Cons that we can be improved with few lines of code such as follwing :
+
+1. Entire data is being displaed everytime the app is run or refresh, that makes the app slower and longer to load up. 
+2. Case sensivitiy is a major problem because if a user use upper case charatesr then our filter wont respond to this request and return to a blank table. 
+
+My recommadations beside what mentioned above are :
+
+1- Inserting a date selection box :
+
+<p style = "aling :center" >
+<img width="250" height="150" src ="https://user-images.githubusercontent.com/98676400/163420757-b9a867be-e99a-474e-877c-c14ceec35328.png"  >
+</p>
+
+2- Our app responds as soon as a change is made in any field. Rather than that inserting a "Search" button will make it more user friendly.
+3- UFO Sightings button is too far from the filter field, we can insert it in the same area wilth filter field. 
 
 
+Aktug Cilekci . 
